@@ -1,0 +1,18 @@
+src
+    components
+        Order
+            index.js
+            orderFooditems.js
+            orderForm.js
+            orderList.js
+            searchFoodItems.js
+
+    layouts (form, table, popup, notification)
+
+    hooks (useFrom)
+
+    utils (index)
+
+    controls (input, button, select)
+
+    api (index)
